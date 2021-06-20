@@ -10,4 +10,4 @@ Use Django REST Framework to create an API, then “containerize” it with Dock
 * First commit-README.md file
 * Second commit finish the lab with read me documentaion
 ## Pull Request
-[Pull request](https://github.com/moh-ash96/drf-api/pull/1)
+[Pull request](https://github.com/HishamKhalil1990/drf-api/pull/1)
